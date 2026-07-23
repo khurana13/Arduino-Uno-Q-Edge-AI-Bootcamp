@@ -33,7 +33,7 @@ Created a Python application to blink the onboard red LED at one-second interval
 
 Used Python to cycle the onboard RGB LED through red, green and blue colours with a short delay between each colour.
 
-### Lab 04 – RGB LED Control Using Arduino Sketch
+### Lab 04 – RGB LED Control Using Arduino Sketch on the MCU
 
 Programmed the onboard RGB LED using an Arduino sketch and explored active-low LED behaviour with digital output pins.
 
@@ -71,7 +71,7 @@ Arduino-UNO-Q-Edge-AI-Bootcamp/
 ├── Lab-03-RGB-LED-Colour-Cycle/
 │   └── main.py
 │
-├── Lab-04-RGB-LED-Arduino-Sketch/
+├── Lab-04-RGB-LED-Arduino-Sketch on the MCU/
 │   └── rgb_led_cycle.ino
 │
 ├── Lab-05-Real-Time-Object-Detection/
