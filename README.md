@@ -62,19 +62,21 @@ Arduino-UNO-Q-Edge-AI-Bootcamp/
 │
 ├── README.md
 │
-├── Lab-01-Terminal-LED-Control/
+├── Lab 01 - Terminal-Based LED Control/
 │   └── command.txt
 │
-├── Lab-02-Python-LED-Blink/
+├── Lab 02 - LED Blinking Using Python/
 │   └── main.py
 │
-├── Lab-03-RGB-LED-Colour-Cycle/
+├── Lab 03 - RGB LED Color Cycle Using Python/
 │   └── main.py
 │
-├── Lab-04-RGB-LED-Arduino-Sketch on the MCU/
+├── Lab 04 - RGB LED Control Using Arduino Sketch on the MCU/
 │   └── rgb_led_cycle.ino
 │
-├── Lab-05-Real-Time-Object-Detection/
+├── Lab 05 - Real Time Object Detection/
 │   └── README.md
 │
 └── images/
+    ├── Lab 01.jpeg
+    └── Lab 05.png
